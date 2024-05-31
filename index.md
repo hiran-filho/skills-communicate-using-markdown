@@ -8,3 +8,7 @@ text At the bottom of the page, type a short, meaningful commit message that des
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
